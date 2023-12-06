@@ -6,3 +6,4 @@
 2. Chamilo 命令执行漏洞 (cve-2023-34960)
 3. nginxwebui 命令执行漏洞
 4. panabit-ixcache后台命令执行漏洞
+5. sslvpn_client_rce (多厂商设备)RCE
