@@ -7,3 +7,4 @@
 3. nginxwebui 命令执行漏洞
 4. panabit-ixcache后台命令执行漏洞
 5. sslvpn_client_rce (多厂商设备)RCE
+6. 锐捷ac无线控制器rce利用.py
